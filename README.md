@@ -7,7 +7,7 @@ Efficient inventory management is critical for reducing losses due to overstocki
 This project predicts future product demand using historical sales data and machine learning.
 
 ## Dataset
-- Source: Kaggle (Sales Data Forecasting)
+- Source: Kaggle (store item demand forecasting)
 - Data contains transaction-level grocery sales information.
 - Transactions are aggregated into daily product-level demand.
 
