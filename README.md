@@ -1,5 +1,5 @@
 # Inventory-Demand-Prediction-
-AI- based inventory demand prediction using machine learning
+AI based inventory demand prediction using machine learning
 # Inventory Demand Prediction
 
 ## Problem Statement
